@@ -84,7 +84,7 @@ print("\nPREDICTION SUMMARY:")
 print(f"   Fire Extinguisher: {fire_count}")
 print(f"   Not Fire Extinguisher: {not_fire_count}")
 print(f"   Total Images: {fire_count + not_fire_count}")
-
+#testtest
 
 print("\nCONFIDENCE BREAKDOWN:")
 high_conf = [r for r in results if r['confidence'] > 0.8]
