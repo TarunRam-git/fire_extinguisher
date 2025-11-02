@@ -1,5 +1,5 @@
 tf2_env/
-data/
-test/
+data
+test
 requirements.txt
 *.h5
