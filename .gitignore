@@ -1,0 +1,5 @@
+tf2_env/
+data/
+test/
+requirements.txt
+*.h5
